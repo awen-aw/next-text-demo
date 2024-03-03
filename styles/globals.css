@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: "NEXT-Book-Bold";
+  src: url(../assets/fonts/NEXT-Book-Bold.otf);
+}
+
+@font-face {
+  font-family: "NEXT-Book-Thin";
+  src: url(../assets/fonts/NEXT-Book-Thin.otf);
+}
+
+@font-face {
+  font-family: "neuemachinna-light";
+  src: url(../assets/fonts/neuemachina-light.otf);
+}
